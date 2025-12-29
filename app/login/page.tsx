@@ -143,7 +143,7 @@ export default function LoginPage() {
           </div>
           <div className="space-y-3">
             <h1 className="text-3xl font-bold leading-tight text-slate-900 dark:text-white sm:text-4xl">
-              AI 할 일 관리 웹 서비스(by Brian Chun)
+              AI가 도와주는 스마트한 할 일 관리 (by Brian Chun)
             </h1>
             <p className="text-base text-slate-600 dark:text-slate-300">
               AI 생성·요약·정렬 기능으로 오늘의 우선순위를 빠르게 정리하세요.
